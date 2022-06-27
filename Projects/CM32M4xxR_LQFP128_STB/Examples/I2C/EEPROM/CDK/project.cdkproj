@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Name="project" Version="1" Language="CPP" Type="Simple">
+  <Description/>
+  <VendorInfo>
+    <VendorName>new_soc_project</VendorName>
+  </VendorInfo>
+  <VirtualDirectory Name="CM32M4xxR_Algo_Library">
+    <VirtualDirectory Name="Include">
+      <File Name="../../../../../../Drivers/CM32M4xxR_Algo_Library/Include/cm32m4xxr_aes.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_Algo_Library/Include/cm32m4xxr_algo_common.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_Algo_Library/Include/cm32m4xxr_des.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_Algo_Library/Include/cm32m4xxr_hash.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_Algo_Library/Include/cm32m4xxr_sm4.h">
+        <FileOption/>
+      </File>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="CM32M4xxR_StdPeriph_Driver">
+    <VirtualDirectory Name="Include">
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_adc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_bkp.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_can.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_comp.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_crc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_dac.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_dbg.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_dma.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_exti.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_flash.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_gpio.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_i2c.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_iwdg.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_opamp.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_pwr.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_qspi.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_rcc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_rngc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_rtc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_spi.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_tim.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_tsc.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_usart.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/cm32m4xxr_wwdg.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include/misc.h">
+        <FileOption/>
+      </File>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Source">
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_adc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_bkp.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_can.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_comp.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_crc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_dac.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_dbg.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_dma.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_exti.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_flash.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_gpio.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_i2c.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_iwdg.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_opamp.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_pwr.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_qspi.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_rcc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_rngc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_rtc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_spi.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_tim.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_tsc.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_usart.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/cm32m4xxr_wwdg.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Source/misc.c">
+        <FileOption/>
+      </File>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="NMSIS">
+    <VirtualDirectory Name="Core">
+      <VirtualDirectory Name="Include">
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_compatiable.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_base.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_cache.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_dsp.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_eclic.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_fpu.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_pmp.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_spmp.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/core_feature_timer.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/nmsis_compiler.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/nmsis_core.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/nmsis_gcc.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/nmsis_version.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/riscv_bits.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Core/Include/riscv_encoding.h">
+          <FileOption/>
+        </File>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Device">
+      <VirtualDirectory Name="Include">
+        <File Name="../../../../../../Drivers/NMSIS/Device/Include/cm32m4xxr.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Device/Include/cm32m4xxr_conf.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Device/Include/cm32m4xxr_def.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Device/Include/nuclei_sdk_soc.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/Device/Include/system_cm32m4xxr.h">
+          <FileOption/>
+        </File>
+      </VirtualDirectory>
+      <VirtualDirectory Name="Source">
+        <VirtualDirectory Name="GCC">
+          <File Name="../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_flash.ld">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_flashxip.ld">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_ilm.ld">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/Device/Source/GCC/intexc_cm32m4xxr.S">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/Device/Source/GCC/startup_cm32m4xxr.S">
+            <FileOption/>
+          </File>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="DSP">
+      <VirtualDirectory Name="Include">
+        <VirtualDirectory Name="dsp">
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/basic_math_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/basic_math_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/bayes_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/bayes_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/complex_math_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/complex_math_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/controller_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/controller_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/distance_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/distance_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/fast_math_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/fast_math_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/filtering_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/filtering_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/interpolation_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/interpolation_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/matrix_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/matrix_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/none.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/quaternion_math_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/statistics_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/statistics_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/support_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/support_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/svm_defines.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/svm_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/svm_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/transform_functions.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/transform_functions_f16.h">
+            <FileOption/>
+          </File>
+          <File Name="../../../../../../Drivers/NMSIS/DSP/Include/dsp/utils.h">
+            <FileOption/>
+          </File>
+        </VirtualDirectory>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_common_tables.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_common_tables_f16.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_const_structs.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_const_structs_f16.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_helium_utils.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_math.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_math_f16.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_math_memory.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_math_types.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_math_types_f16.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_mve_tables.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_mve_tables_f16.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_vec_math.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/Include/riscv_vec_math_f16.h">
+          <FileOption/>
+        </File>
+      </VirtualDirectory>
+      <VirtualDirectory Name="PrivateInclude">
+        <File Name="../../../../../../Drivers/NMSIS/DSP/PrivateInclude/riscv_sorting.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/PrivateInclude/riscv_vec_fft.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../Drivers/NMSIS/DSP/PrivateInclude/riscv_vec_filtering.h">
+          <FileOption/>
+        </File>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <DebugSessions>
+    <watchExpressions/>
+    <memoryExpressions/>
+    <statistics/>
+    <peripheralTabs/>
+    <WatchDisplayFormat/>
+    <LocalDisplayFormat/>
+    <debugLayout/>
+    <memoryTabColSizeExpressions/>
+  </DebugSessions>
+  <VirtualDirectory Name="BSP">
+    <VirtualDirectory Name="Include">
+      <File Name="../../../../BSP/Include/bsp.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Include/key.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Include/led.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Include/log.h">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Include/tsckey.h">
+        <FileOption/>
+      </File>
+    </VirtualDirectory>
+    <File Name="../../../../BSP/npk.yml">
+      <FileOption/>
+    </File>
+    <VirtualDirectory Name="Source">
+      <File Name="../../../../BSP/Source/key.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Source/led.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Source/log.c">
+        <FileOption/>
+      </File>
+      <File Name="../../../../BSP/Source/tsckey.c">
+        <FileOption/>
+      </File>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Application">
+    <VirtualDirectory Name="Include">
+      <File Name="../Application/Include/cm32m4xxr_it.h"/>
+      <File Name="../Application/Include/main.h"/>
+      <File Name="../Application/Include/system_cm32m4xxr.h"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Source">
+      <File Name="../Application/Source/cm32m4xxxr_it.c"/>
+      <File Name="../Application/Source/i2c_eeprom.c"/>
+      <File Name="../Application/Source/i2c_eeprom.h"/>
+      <File Name="../Application/Source/main.c"/>
+      <File Name="../Application/Source/system_cm32m4xxr.c"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <BuildConfigs>
+    <BuildConfig Name="Link_FLASHXIP">
+      <Target>
+        <ROMBank Selected="1">
+          <ROM1>
+            <InUse>no</InUse>
+            <Start>0x0</Start>
+            <Size>0x20000</Size>
+          </ROM1>
+          <ROM2>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM2>
+          <ROM3>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM3>
+          <ROM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM4>
+          <ROM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM5>
+        </ROMBank>
+        <RAMBank>
+          <RAM1>
+            <InUse>yes</InUse>
+            <Start>0x20000000</Start>
+            <Size>0x80000</Size>
+            <Init>yes</Init>
+          </RAM1>
+          <RAM2>
+            <InUse>no</InUse>
+            <Start>0x50000000</Start>
+            <Size>0x800000</Size>
+            <Init>yes</Init>
+          </RAM2>
+          <RAM3>
+            <InUse>no</InUse>
+            <Start>0x60000000</Start>
+            <Size>0x20000</Size>
+            <Init>yes</Init>
+          </RAM3>
+          <RAM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM4>
+          <RAM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM5>
+        </RAMBank>
+        <CPU>CM32M4xxR</CPU>
+        <UseMiniLib>yes</UseMiniLib>
+        <Endian>little</Endian>
+        <UseHardFloat>no</UseHardFloat>
+        <UseEnhancedLRW>no</UseEnhancedLRW>
+        <UseContinueBuild>no</UseContinueBuild>
+        <UseSemiHost>no</UseSemiHost>
+      </Target>
+      <Output>
+        <OutputName>$(ProjectName)</OutputName>
+        <Type>Executable</Type>
+        <CreateHexFile>no</CreateHexFile>
+        <CreateBinFile>no</CreateBinFile>
+        <Preprocessor>no</Preprocessor>
+        <Disassmeble>yes</Disassmeble>
+        <CallGraph>no</CallGraph>
+        <Map>no</Map>
+      </Output>
+      <User>
+        <BeforeCompile>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeCompile>
+        <BeforeMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeMake>
+        <AfterMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </AfterMake>
+        <Tools/>
+      </User>
+      <Compiler>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_FLASHXIP;DOWNLOAD_MODE_STRING=\"FLASHXIP\"</Define>
+        <Undefine/>
+        <Optim>Optimize more (-O2)</Optim>
+        <DebugLevel>Default (-g)</DebugLevel>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include;$(ProjectPath)/../Application/Source;$(ProjectPath)/../coremark</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <Verbose>no</Verbose>
+        <Ansi>no</Ansi>
+        <Syntax>no</Syntax>
+        <Pedantic>no</Pedantic>
+        <PedanticErr>no</PedanticErr>
+        <InhibitWarn>no</InhibitWarn>
+        <AllWarn>yes</AllWarn>
+        <WarnErr>no</WarnErr>
+        <OneElfS>yes</OneElfS>
+        <OneElfSPerData>yes</OneElfSPerData>
+        <Fstrict>no</Fstrict>
+      </Compiler>
+      <Asm>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_FLASHXIP;DOWNLOAD_MODE_STRING="FLASHXIP"</Define>
+        <Undefine/>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include;$(ProjectPath)/../Application/Source;$(ProjectPath)/../coremark</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <DebugLevel>gdwarf2</DebugLevel>
+      </Asm>
+      <Linker>
+        <Garbage>yes</Garbage>
+        <Garbage2>yes</Garbage2>
+        <LDFile>$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_flashxip.ld</LDFile>
+        <LibName>nmsis_dsp_rv32imafcp;cm32m4xxr_aes_rv32imafc;cm32m4xxr_des_rv32imafc;cm32m4xxr_hash_rv32imafc;cm32m4xxr_sm4_rv32imafc;cm32m4xxr_algo_common_rv32imafc;stdc++</LibName>
+        <LibPath>../../../../../../Drivers/NMSIS/Library/DSP/GCC;../../../../../../Drivers/CM32M4xxR_Algo_Library/Lib</LibPath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <AutoLDFile>no</AutoLDFile>
+        <LinkType/>
+        <IncludeAllLibs>no</IncludeAllLibs>
+      </Linker>
+      <Debug>
+        <LoadApplicationAtStartup>yes</LoadApplicationAtStartup>
+        <Connector>OpenOCD</Connector>
+        <StopAt>yes</StopAt>
+        <StopAtText>main</StopAtText>
+        <InitFile>$(ProjectPath)/gdb.init</InitFile>
+        <AfterLoadFile/>
+        <AutoRun>yes</AutoRun>
+        <ResetType>Hard Reset</ResetType>
+        <SoftResetVal>0</SoftResetVal>
+        <ResetAfterLoad>no</ResetAfterLoad>
+        <AfterResetFile/>
+        <Dumpcore>no</Dumpcore>
+        <DumpcoreText/>
+        <ConfigICE>
+          <IP>localhost</IP>
+          <PORT>1025</PORT>
+          <CPUNumber>0</CPUNumber>
+          <Clock>12000</Clock>
+          <Delay>10</Delay>
+          <NResetDelay>100</NResetDelay>
+          <WaitReset>50</WaitReset>
+          <DDC>yes</DDC>
+          <TRST>no</TRST>
+          <DebugPrint>no</DebugPrint>
+          <Connect>Normal</Connect>
+          <ResetType>soft</ResetType>
+          <SoftResetVal>0</SoftResetVal>
+          <RTOSType>None</RTOSType>
+          <DownloadToFlash>no</DownloadToFlash>
+          <ResetAfterConnect>yes</ResetAfterConnect>
+          <GDBName/>
+          <GDBServerType>Local</GDBServerType>
+          <OtherFlags/>
+          <ICEEnablePCSampling>yes</ICEEnablePCSampling>
+          <ICESamplingFreq>1000</ICESamplingFreq>
+          <RemoteICEEnablePCSampling>no</RemoteICEEnablePCSampling>
+          <RemoteICESamplingPort>1026</RemoteICESamplingPort>
+          <Version>latest</Version>
+        </ConfigICE>
+        <ConfigSIM>
+          <SIMTarget/>
+          <OtherFlags/>
+          <NoGraphic>yes</NoGraphic>
+          <Log>no</Log>
+          <SimTrace>no</SimTrace>
+          <Version>latest</Version>
+        </ConfigSIM>
+        <ConfigOpenOCD>
+          <OpenOCDExecutablePath/>
+          <OpenOCDTelnetPortEnable>no</OpenOCDTelnetPortEnable>
+          <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
+          <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
+          <OpenOCDTclPort>6666</OpenOCDTclPort>
+          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDTimeout>5000</OpenOCDTimeout>
+          <PluginID>openocd-nuclei</PluginID>
+          <Version>latest</Version>
+        </ConfigOpenOCD>
+      </Debug>
+      <Flash>
+        <InitFile/>
+        <Erase>Erase Sectors</Erase>
+        <Algorithms Path=""/>
+        <Program>no</Program>
+        <Verify>no</Verify>
+        <ResetAndRun>no</ResetAndRun>
+        <ResetType>Soft Reset</ResetType>
+        <SoftResetVal/>
+        <External>no</External>
+        <Command/>
+        <Arguments/>
+      </Flash>
+    </BuildConfig>
+    <BuildConfig Name="Link_FLASH">
+      <Target>
+        <ROMBank Selected="0">
+          <ROM1>
+            <InUse>no</InUse>
+            <Start>0x0</Start>
+            <Size>0x20000</Size>
+          </ROM1>
+          <ROM2>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM2>
+          <ROM3>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM3>
+          <ROM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM4>
+          <ROM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM5>
+        </ROMBank>
+        <RAMBank>
+          <RAM1>
+            <InUse>yes</InUse>
+            <Start>0x20000000</Start>
+            <Size>0x80000</Size>
+            <Init>yes</Init>
+          </RAM1>
+          <RAM2>
+            <InUse>no</InUse>
+            <Start>0x50000000</Start>
+            <Size>0x800000</Size>
+            <Init>yes</Init>
+          </RAM2>
+          <RAM3>
+            <InUse>no</InUse>
+            <Start>0x60000000</Start>
+            <Size>0x20000</Size>
+            <Init>yes</Init>
+          </RAM3>
+          <RAM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM4>
+          <RAM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM5>
+        </RAMBank>
+        <CPU>CM32M4xxR</CPU>
+        <UseMiniLib>yes</UseMiniLib>
+        <Endian>little</Endian>
+        <UseHardFloat>no</UseHardFloat>
+        <UseEnhancedLRW>no</UseEnhancedLRW>
+        <UseContinueBuild>no</UseContinueBuild>
+        <UseSemiHost>no</UseSemiHost>
+      </Target>
+      <Output>
+        <OutputName>$(ProjectName)</OutputName>
+        <Type>Executable</Type>
+        <CreateHexFile>no</CreateHexFile>
+        <CreateBinFile>no</CreateBinFile>
+        <Preprocessor>no</Preprocessor>
+        <Disassmeble>yes</Disassmeble>
+        <CallGraph>no</CallGraph>
+        <Map>no</Map>
+      </Output>
+      <User>
+        <BeforeCompile>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeCompile>
+        <BeforeMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeMake>
+        <AfterMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </AfterMake>
+        <Tools/>
+      </User>
+      <Compiler>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_FLASH;DOWNLOAD_MODE_STRING=\"FLASH\"</Define>
+        <Undefine/>
+        <Optim>Optimize more (-O2)</Optim>
+        <DebugLevel>Default (-g)</DebugLevel>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <Verbose>no</Verbose>
+        <Ansi>no</Ansi>
+        <Syntax>no</Syntax>
+        <Pedantic>no</Pedantic>
+        <PedanticErr>no</PedanticErr>
+        <InhibitWarn>no</InhibitWarn>
+        <AllWarn>yes</AllWarn>
+        <WarnErr>no</WarnErr>
+        <OneElfS>yes</OneElfS>
+        <OneElfSPerData>yes</OneElfSPerData>
+        <Fstrict>no</Fstrict>
+      </Compiler>
+      <Asm>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_FLASH;DOWNLOAD_MODE_STRING="FLASH"</Define>
+        <Undefine/>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <DebugLevel>gdwarf2</DebugLevel>
+      </Asm>
+      <Linker>
+        <Garbage>yes</Garbage>
+        <Garbage2>yes</Garbage2>
+        <LDFile>$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_flash.ld</LDFile>
+        <LibName>nmsis_dsp_rv32imafcp;cm32m4xxr_aes_rv32imafc;cm32m4xxr_des_rv32imafc;cm32m4xxr_hash_rv32imafc;cm32m4xxr_sm4_rv32imafc;cm32m4xxr_algo_common_rv32imafc;stdc++</LibName>
+        <LibPath>../../../../../../Drivers/NMSIS/Library/DSP/GCC;../../../../../../Drivers/CM32M4xxR_Algo_Library/Lib</LibPath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <AutoLDFile>no</AutoLDFile>
+        <LinkType/>
+        <IncludeAllLibs>no</IncludeAllLibs>
+      </Linker>
+      <Debug>
+        <LoadApplicationAtStartup>yes</LoadApplicationAtStartup>
+        <Connector>OpenOCD</Connector>
+        <StopAt>yes</StopAt>
+        <StopAtText>main</StopAtText>
+        <InitFile>$(ProjectPath)/gdb.init</InitFile>
+        <AfterLoadFile/>
+        <AutoRun>yes</AutoRun>
+        <ResetType>Hard Reset</ResetType>
+        <SoftResetVal>0</SoftResetVal>
+        <ResetAfterLoad>no</ResetAfterLoad>
+        <AfterResetFile/>
+        <Dumpcore>no</Dumpcore>
+        <DumpcoreText/>
+        <ConfigICE>
+          <IP>localhost</IP>
+          <PORT>1025</PORT>
+          <CPUNumber>0</CPUNumber>
+          <Clock>12000</Clock>
+          <Delay>10</Delay>
+          <NResetDelay>100</NResetDelay>
+          <WaitReset>50</WaitReset>
+          <DDC>yes</DDC>
+          <TRST>no</TRST>
+          <DebugPrint>no</DebugPrint>
+          <Connect>Normal</Connect>
+          <ResetType>soft</ResetType>
+          <SoftResetVal>0</SoftResetVal>
+          <RTOSType>None</RTOSType>
+          <DownloadToFlash>no</DownloadToFlash>
+          <ResetAfterConnect>yes</ResetAfterConnect>
+          <GDBName/>
+          <GDBServerType>Local</GDBServerType>
+          <OtherFlags/>
+          <ICEEnablePCSampling>yes</ICEEnablePCSampling>
+          <ICESamplingFreq>1000</ICESamplingFreq>
+          <RemoteICEEnablePCSampling>no</RemoteICEEnablePCSampling>
+          <RemoteICESamplingPort>1026</RemoteICESamplingPort>
+          <Version>latest</Version>
+        </ConfigICE>
+        <ConfigSIM>
+          <SIMTarget/>
+          <OtherFlags/>
+          <NoGraphic>yes</NoGraphic>
+          <Log>no</Log>
+          <SimTrace>no</SimTrace>
+          <Version>latest</Version>
+        </ConfigSIM>
+        <ConfigOpenOCD>
+          <OpenOCDExecutablePath/>
+          <OpenOCDTelnetPortEnable>no</OpenOCDTelnetPortEnable>
+          <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
+          <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
+          <OpenOCDTclPort>6666</OpenOCDTclPort>
+          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDTimeout>5000</OpenOCDTimeout>
+          <PluginID>openocd-nuclei</PluginID>
+          <Version>latest</Version>
+        </ConfigOpenOCD>
+      </Debug>
+      <Flash>
+        <InitFile/>
+        <Erase>Erase Sectors</Erase>
+        <Algorithms Path=""/>
+        <Program>no</Program>
+        <Verify>no</Verify>
+        <ResetAndRun>no</ResetAndRun>
+        <ResetType>Soft Reset</ResetType>
+        <SoftResetVal/>
+        <External>no</External>
+        <Command/>
+        <Arguments/>
+      </Flash>
+    </BuildConfig>
+    <BuildConfig Name="Link_ILM">
+      <Target>
+        <ROMBank Selected="0">
+          <ROM1>
+            <InUse>no</InUse>
+            <Start>0x0</Start>
+            <Size>0x20000</Size>
+          </ROM1>
+          <ROM2>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM2>
+          <ROM3>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM3>
+          <ROM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM4>
+          <ROM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+          </ROM5>
+        </ROMBank>
+        <RAMBank>
+          <RAM1>
+            <InUse>yes</InUse>
+            <Start>0x20000000</Start>
+            <Size>0x80000</Size>
+            <Init>yes</Init>
+          </RAM1>
+          <RAM2>
+            <InUse>no</InUse>
+            <Start>0x50000000</Start>
+            <Size>0x800000</Size>
+            <Init>yes</Init>
+          </RAM2>
+          <RAM3>
+            <InUse>no</InUse>
+            <Start>0x60000000</Start>
+            <Size>0x20000</Size>
+            <Init>yes</Init>
+          </RAM3>
+          <RAM4>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM4>
+          <RAM5>
+            <InUse>no</InUse>
+            <Start/>
+            <Size/>
+            <Init>yes</Init>
+          </RAM5>
+        </RAMBank>
+        <CPU>CM32M4xxR</CPU>
+        <UseMiniLib>yes</UseMiniLib>
+        <Endian>little</Endian>
+        <UseHardFloat>no</UseHardFloat>
+        <UseEnhancedLRW>no</UseEnhancedLRW>
+        <UseContinueBuild>no</UseContinueBuild>
+        <UseSemiHost>no</UseSemiHost>
+      </Target>
+      <Output>
+        <OutputName>$(ProjectName)</OutputName>
+        <Type>Executable</Type>
+        <CreateHexFile>no</CreateHexFile>
+        <CreateBinFile>no</CreateBinFile>
+        <Preprocessor>no</Preprocessor>
+        <Disassmeble>yes</Disassmeble>
+        <CallGraph>no</CallGraph>
+        <Map>no</Map>
+      </Output>
+      <User>
+        <BeforeCompile>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeCompile>
+        <BeforeMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </BeforeMake>
+        <AfterMake>
+          <RunUserProg>no</RunUserProg>
+          <UserProgName/>
+        </AfterMake>
+        <Tools/>
+      </User>
+      <Compiler>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_ILM;DOWNLOAD_MODE_STRING=\"ILM\"</Define>
+        <Undefine/>
+        <Optim>Optimize more (-O2)</Optim>
+        <DebugLevel>Default (-g)</DebugLevel>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <Verbose>no</Verbose>
+        <Ansi>no</Ansi>
+        <Syntax>no</Syntax>
+        <Pedantic>no</Pedantic>
+        <PedanticErr>no</PedanticErr>
+        <InhibitWarn>no</InhibitWarn>
+        <AllWarn>yes</AllWarn>
+        <WarnErr>no</WarnErr>
+        <OneElfS>yes</OneElfS>
+        <OneElfSPerData>yes</OneElfSPerData>
+        <Fstrict>no</Fstrict>
+      </Compiler>
+      <Asm>
+        <Define>__IDE_RV_CORE=n308;DOWNLOAD_MODE=DOWNLOAD_MODE_ILM;DOWNLOAD_MODE_STRING="ILM"</Define>
+        <Undefine/>
+        <IncludePath>$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_Algo_Library/Include;$(ProjectPath)/../../../../../../Drivers/CM32M4xxR_StdPeriph_Driver/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/Core/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/Include/dsp;$(ProjectPath)/../../../../../../Drivers/NMSIS/DSP/PrivateInclude;$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Include;$(ProjectPath)/../../../../BSP/Include;$(ProjectPath)/../Application/Include</IncludePath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <DebugLevel>gdwarf2</DebugLevel>
+      </Asm>
+      <Linker>
+        <Garbage>yes</Garbage>
+        <Garbage2>yes</Garbage2>
+        <LDFile>$(ProjectPath)/../../../../../../Drivers/NMSIS/Device/Source/GCC/gcc_cm32m4xxr_ilm.ld</LDFile>
+        <LibName>nmsis_dsp_rv32imafcp;cm32m4xxr_aes_rv32imafc;cm32m4xxr_des_rv32imafc;cm32m4xxr_hash_rv32imafc;cm32m4xxr_sm4_rv32imafc;cm32m4xxr_algo_common_rv32imafc;stdc++</LibName>
+        <LibPath>../../../../../../Drivers/NMSIS/Library/DSP/GCC;../../../../../../Drivers/CM32M4xxR_Algo_Library/Lib</LibPath>
+        <OtherFlags> -mcmodel=medany -mno-save-restore -fno-common -nostartfiles --specs=nano.specs --specs=nosys.specs -u _isatty -u _write -u _sbrk -u _read -u _close -u _fstat -u _lseek -Xlinker --gc-sections</OtherFlags>
+        <AutoLDFile>no</AutoLDFile>
+        <LinkType/>
+        <IncludeAllLibs>no</IncludeAllLibs>
+      </Linker>
+      <Debug>
+        <LoadApplicationAtStartup>yes</LoadApplicationAtStartup>
+        <Connector>OpenOCD</Connector>
+        <StopAt>yes</StopAt>
+        <StopAtText>main</StopAtText>
+        <InitFile>$(ProjectPath)/gdb.init</InitFile>
+        <AfterLoadFile/>
+        <AutoRun>yes</AutoRun>
+        <ResetType>Hard Reset</ResetType>
+        <SoftResetVal>0</SoftResetVal>
+        <ResetAfterLoad>no</ResetAfterLoad>
+        <AfterResetFile/>
+        <Dumpcore>no</Dumpcore>
+        <DumpcoreText/>
+        <ConfigICE>
+          <IP>localhost</IP>
+          <PORT>1025</PORT>
+          <CPUNumber>0</CPUNumber>
+          <Clock>12000</Clock>
+          <Delay>10</Delay>
+          <NResetDelay>100</NResetDelay>
+          <WaitReset>50</WaitReset>
+          <DDC>yes</DDC>
+          <TRST>no</TRST>
+          <DebugPrint>no</DebugPrint>
+          <Connect>Normal</Connect>
+          <ResetType>soft</ResetType>
+          <SoftResetVal>0</SoftResetVal>
+          <RTOSType>None</RTOSType>
+          <DownloadToFlash>no</DownloadToFlash>
+          <ResetAfterConnect>yes</ResetAfterConnect>
+          <GDBName/>
+          <GDBServerType>Local</GDBServerType>
+          <OtherFlags/>
+          <ICEEnablePCSampling>yes</ICEEnablePCSampling>
+          <ICESamplingFreq>1000</ICESamplingFreq>
+          <RemoteICEEnablePCSampling>no</RemoteICEEnablePCSampling>
+          <RemoteICESamplingPort>1026</RemoteICESamplingPort>
+          <Version>latest</Version>
+        </ConfigICE>
+        <ConfigSIM>
+          <SIMTarget/>
+          <OtherFlags/>
+          <NoGraphic>yes</NoGraphic>
+          <Log>no</Log>
+          <SimTrace>no</SimTrace>
+          <Version>latest</Version>
+        </ConfigSIM>
+        <ConfigOpenOCD>
+          <OpenOCDExecutablePath/>
+          <OpenOCDTelnetPortEnable>no</OpenOCDTelnetPortEnable>
+          <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
+          <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
+          <OpenOCDTclPort>6666</OpenOCDTclPort>
+          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDTimeout>5000</OpenOCDTimeout>
+          <PluginID>openocd-nuclei</PluginID>
+          <Version>latest</Version>
+        </ConfigOpenOCD>
+      </Debug>
+      <Flash>
+        <InitFile/>
+        <Erase>Erase Sectors</Erase>
+        <Algorithms Path=""/>
+        <Program>no</Program>
+        <Verify>no</Verify>
+        <ResetAndRun>no</ResetAndRun>
+        <ResetType>Soft Reset</ResetType>
+        <SoftResetVal/>
+        <External>no</External>
+        <Command/>
+        <Arguments/>
+      </Flash>
+    </BuildConfig>
+  </BuildConfigs>
+</Project>
