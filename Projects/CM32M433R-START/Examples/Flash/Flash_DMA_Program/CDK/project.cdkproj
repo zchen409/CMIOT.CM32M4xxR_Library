@@ -657,7 +657,7 @@
           <OpenOCDTclPort>6666</OpenOCDTclPort>
           <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
-          <PluginID>openocd-nuclei</PluginID>
+          <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
         </ConfigOpenOCD>
       </Debug>
@@ -862,7 +862,7 @@
           <OpenOCDTclPort>6666</OpenOCDTclPort>
           <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
-          <PluginID>openocd-nuclei</PluginID>
+          <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
         </ConfigOpenOCD>
       </Debug>
@@ -1067,7 +1067,7 @@
           <OpenOCDTclPort>6666</OpenOCDTclPort>
           <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
-          <PluginID>openocd-nuclei</PluginID>
+          <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
         </ConfigOpenOCD>
       </Debug>
