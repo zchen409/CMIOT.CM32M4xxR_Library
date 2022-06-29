@@ -657,7 +657,7 @@
           <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
           <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
           <OpenOCDTclPort>6666</OpenOCDTclPort>
-          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDConfigOptions>-f none</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
           <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
@@ -862,7 +862,7 @@
           <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
           <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
           <OpenOCDTclPort>6666</OpenOCDTclPort>
-          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDConfigOptions>-f none</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
           <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
@@ -1067,7 +1067,7 @@
           <OpenOCDTelnetPort>4444</OpenOCDTelnetPort>
           <OpenOCDTclPortEnable>no</OpenOCDTclPortEnable>
           <OpenOCDTclPort>6666</OpenOCDTclPort>
-          <OpenOCDConfigOptions>-f ../../../../../../Drivers/Env/cm32m4xxr.cfg</OpenOCDConfigOptions>
+          <OpenOCDConfigOptions>-f none</OpenOCDConfigOptions>
           <OpenOCDTimeout>5000</OpenOCDTimeout>
           <PluginID>openocd-XinShengTech</PluginID>
           <Version>latest</Version>
